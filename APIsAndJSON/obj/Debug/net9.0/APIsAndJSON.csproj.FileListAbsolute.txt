@@ -31,3 +31,8 @@ C:/Users/cynth/Desktop/NetOverHaul/APIs-and-JSON-Exercise/APIsAndJSON/obj/Debug/
 /Users/kokojeff/repos/APIs-and-JSON-Exercise/APIsAndJSON/obj/Debug/net9.0/APIsAndJSON.pdb
 /Users/kokojeff/repos/APIs-and-JSON-Exercise/APIsAndJSON/obj/Debug/net9.0/APIsAndJSON.genruntimeconfig.cache
 /Users/kokojeff/repos/APIs-and-JSON-Exercise/APIsAndJSON/obj/Debug/net9.0/ref/APIsAndJSON.dll
+/Users/kokojeff/repos/APIs-and-JSON-Exercise/APIsAndJSON/bin/Debug/net9.0/DotNetEnv.dll
+/Users/kokojeff/repos/APIs-and-JSON-Exercise/APIsAndJSON/bin/Debug/net9.0/Microsoft.Extensions.Configuration.dll
+/Users/kokojeff/repos/APIs-and-JSON-Exercise/APIsAndJSON/bin/Debug/net9.0/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/kokojeff/repos/APIs-and-JSON-Exercise/APIsAndJSON/bin/Debug/net9.0/Microsoft.Extensions.Primitives.dll
+/Users/kokojeff/repos/APIs-and-JSON-Exercise/APIsAndJSON/bin/Debug/net9.0/Sprache.dll
